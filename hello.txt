@@ -1,2 +1,3 @@
 Hello world
 Steve Jobs
+Using the fetch method
