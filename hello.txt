@@ -1,3 +1,4 @@
 Hello world
 Steve Jobs
 Using the fetch method
+Using the pull method
