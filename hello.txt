@@ -1,3 +1,2 @@
 Hello world
-Tim Cook
-Steve Job
+Linus Torvalds
